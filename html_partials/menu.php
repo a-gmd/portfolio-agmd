@@ -2,7 +2,7 @@
     <!-- nav -->
     <nav class="nav container padd-15">
         <!-- nav logo -->
-        <a href="/index.php" class="nav-logo">
+        <a href="/index.html" class="nav-logo">
             <h2>Adam</h2>
         </a>
         <!-- nav menu -->
